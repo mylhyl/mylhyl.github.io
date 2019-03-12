@@ -1,2 +1,1 @@
-# mylhyl.github.io
-石头的博客
+<img src="images/xyry.jpg" width="240px"/>
